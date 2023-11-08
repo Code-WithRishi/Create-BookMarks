@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bookmarks - Codewithharry</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>My Bookmarks</h1>
+    <h2>Main Bookmarks</h2>
+    <h3>Main Bookmarks</h3>
+    <h4>Main Bookmarks</h4>
+    <h5>Main Bookmarks</h5>
+    <h6>Main Bookmarks</h6>
+    <p style="background-color: thistle;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates et adipisci quasi accusantium quidem, totam
+    optio earum quaerat odit! Dicta minus repellat et.</p>
+   
+    <p style="background-color: aqua;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore corporis, deleniti numquam eligendi repudiandae nisi molestiae asperiores labore odio dolores? Quae, modi. Corrupti aliquid facere ipsa pariatur fuga animi, praesentium expedita culpa provident, consequatur fugiat asperiores ipsam, recusandae non consequuntur voluptate. Distinctio nesciunt ducimus inventore temporibus? Dolorem quasi, excepturi officiis eos similique vel rem itaque voluptatem non quod. Rerum magnam consequuntur nulla deleniti error, ex, aut a ea aperiam fuga aspernatur tempora et. Alias commodi natus repudiandae corrupti ducimus ipsa distinctio iste saepe omnis cumque libero qui corporis aliquam mollitia porro at maiores quam, beatae error maxime impedit soluta accusantium?</p>
+
+</body>
+</html>
